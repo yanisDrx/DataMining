@@ -1,0 +1,176 @@
+[
+  {
+    "user_id": "User_Nature",
+    "favorite_colors": [
+      "darkslategray",
+      "dimgray"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "unknown",
+    "favorite_tags": [
+      "day",
+      "urban",
+      "landscape"
+    ],
+    "favorite_images": [
+      "Planalto%20Central%20%28cropped%29.jpg",
+      "Wuppertal%20ansicht.jpg",
+      "Ottawa%20Montage%202020.jpg",
+      "Nhathocoquangbinh.jpg",
+      "Duisburg%20-%20Schwanentorbr%C3%BCcke%201.jpg",
+      "Copenhagen%20-%20view%20from%20Christiansborg%20castle.jpg",
+      "Luxembourg%20City%20Hall%20%2854540726309%29.jpg",
+      "St%20John%27s%20Newfoundland%20Collage.jpg",
+      "Holstentor%20in%20L%C3%BCbeck%20Frontseite%20-%20Zuschnitt.jpg",
+      "Panoramica%20Firenze.jpg",
+      "Centrala%20Malm%C3%B6.jpg",
+      "Frankfurter%20Altstadt%20mit%20Skyline%202019%20%28100MP%29.jpg",
+      "SB-Rathaus.jpg",
+      "Aerial%20view%20of%20Essen.jpg",
+      "Muenster-100725-16079-Lamberti.jpg",
+      "%D0%9C%D1%96%D0%BD%D1%81%D0%BA.%20%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%BF%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+      "00%201189%20Blick%20vom%20Bergpark%20Wilhelmsh%C3%B6he%2C%20Kassel.jpg",
+      "Kuala%20Lumpur%20with%20Petronas%20Towers.jpg",
+      "BHA%20Nassau%2C%20Paradise%20Island%2C%20Atlantis%20Bridge%20001.jpg",
+      "Victoria%20Montage%202020.jpg"
+    ]
+  },
+  {
+    "user_id": "User_Urban",
+    "favorite_colors": [
+      "darkslategray",
+      "dimgray"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "unknown",
+    "favorite_tags": [
+      "landscape",
+      "urban",
+      "old"
+    ],
+    "favorite_images": [
+      "Muenster-100725-16079-Lamberti.jpg",
+      "%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B3%D0%BE%D1%80%D0%B0%20%28%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9%29%20-%201.jpg",
+      "Assumption%20Cathedral%20in%20Smolensk.jpg",
+      "Tallinna%20vanalinn%202015.jpg",
+      "%D0%A4%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20%D0%B2%D0%BE%D0%B7%D0%B4%D1%83%D1%85%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%A0%D1%8F%D0%B7%D0%B0%D0%BD%D0%B8.jpg",
+      "Kuala%20Lumpur%20with%20Petronas%20Towers.jpg",
+      "Mannheim-2014-Friedrichsplatz%2BWasserturm-MA-054-059.jpg",
+      "Rathaus%20Krefeld%20%288676439516%29%20v2.jpg",
+      "%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg",
+      "Dublin%20-%20aerial%20-%202025-07-07%2001.jpg",
+      "%D0%9C%D1%96%D0%BD%D1%81%D0%BA.%20%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%BF%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+      "Aerial%20picture%20of%20Verona.jpg",
+      "Hlavn%C3%A9%20Namestie%20%2835096533142%29.jpg",
+      "St%20John%27s%20Newfoundland%20Collage.jpg",
+      "Schlossbergblick%20Freiburg%20i.%20B.%2014.jpg",
+      "00%201189%20Blick%20vom%20Bergpark%20Wilhelmsh%C3%B6he%2C%20Kassel.jpg",
+      "Catania%20panorama.jpg",
+      "2019%20-%20Schweriner%20Schloss%20-%201.jpg",
+      "Centro%20internacional.JPG",
+      "Halle-view%20Zoo.JPG"
+    ]
+  },
+  {
+    "user_id": "User_Minimalist",
+    "favorite_colors": [
+      "black",
+      "dimgray"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "unknown",
+    "favorite_tags": [
+      "urban",
+      "night",
+      "landscape"
+    ],
+    "favorite_images": [
+      "Theodor-Heuss-Br%C3%BCcke%2C%201902231957%2C%20ako.jpg",
+      "Helsinki%20Lutheran%20Cathedral%20%28panoraaman%C3%A4k%C3%B6ala%29-2%20%28s%C3%A4%C3%A4t%C3%B6%29.jpg",
+      "Braunschweig%20Kohlmarkt.jpg",
+      "Neues%20Rathaus%20Hannover%202013.jpg",
+      "Kaluga%202012%20MainSquare%2003%201TM.jpg",
+      "%D0%9F%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C%20%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%B0%20%D0%A2%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE.jpg",
+      "Concepcion-Chile%28001%29.jpg",
+      "SB-Rathaus.jpg",
+      "2018-08-10%20DE%20Potsdam%2C%20Havel%2C%20Potsdamer%20Stadtschloss%2C%20Charlottenhof%2005609390%20%2849952695592%29.jpg",
+      "%D0%9C%D1%96%D0%BD%D1%81%D0%BA.%20%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%BF%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+      "Bergbaumuseum%20Bochum%20bei%20Nacht.JPG",
+      "KielerStadtzentrumLuftaufnahme.jpg",
+      "Yarolslav%20colage.png",
+      "Centrala%20Malm%C3%B6.jpg"
+    ]
+  },
+  {
+    "user_id": "User_Sunset",
+    "favorite_colors": [
+      "darkslategray",
+      "gray"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "unknown",
+    "favorite_tags": [
+      "landscape",
+      "urban",
+      "day"
+    ],
+    "favorite_images": [
+      "Hlavn%C3%A9%20Namestie%20%2835096533142%29.jpg",
+      "Mannheim-2014-Friedrichsplatz%2BWasserturm-MA-054-059.jpg",
+      "Palermo02%20flickr.jpg",
+      "Old%20cathedral%20of%20Kaliningrad%20in%20Russia.jpg",
+      "2019%20-%20Schweriner%20Schloss%20-%201.jpg",
+      "Mount%20Ararat%20and%20the%20Yerevan%20skyline%20in%20spring%20%2828mm%29.jpg",
+      "Dublin%20-%20aerial%20-%202025-07-07%2001.jpg",
+      "Halle-view%20Zoo.JPG",
+      "%D0%9C%D1%96%D0%BD%D1%81%D0%BA.%20%D0%A1%D0%BA%D0%B2%D0%B5%D1%80%20%D0%BF%D0%B0%20%D0%BF%D0%BB%D0%BE%D1%88%D1%87%D1%8B%20%D0%9D%D0%B5%D0%B7%D0%B0%D0%BB%D0%B5%D0%B6%D0%BD%D0%B0%D1%81%D1%86%D1%96.jpg",
+      "DD-canaletto-blick.jpg",
+      "Centro%20internacional.JPG",
+      "Nhathocoquangbinh.jpg",
+      "Stadtbild%20M%C3%BCnchen.jpg",
+      "Elmek%20Nimir%20Bridge.jpg",
+      "Ho%20Chi%20Minh%20City%20Skyline.jpg",
+      "Kochi%20India.jpg",
+      "Theodor-Heuss-Br%C3%BCcke%2C%201902231957%2C%20ako.jpg",
+      "Veliky%20Novgorod%20montage%20%282015%29.png",
+      "Havenwelten%20%C3%9Cberblick%20Bremerhaven%202013.jpg",
+      "%D0%A1%D1%8B%D0%BA%D1%82%D1%8B%D0%B2%D0%BA%D0%B0%D1%80%20-%20panoramio%20%281%29.jpg"
+    ]
+  },
+  {
+    "user_id": "User_HighRes",
+    "favorite_colors": [
+      "dimgray",
+      "darkslategray"
+    ],
+    "favorite_orientation": "landscape",
+    "favorite_size": "unknown",
+    "favorite_tags": [
+      "urban",
+      "landscape",
+      "day"
+    ],
+    "favorite_images": [
+      "Aerial%20picture%20of%20Verona.jpg",
+      "Winnipeg%20skyline%20%282025%29.jpg",
+      "Muenster-100725-16079-Lamberti.jpg",
+      "KielerStadtzentrumLuftaufnahme.jpg",
+      "DD-canaletto-blick.jpg",
+      "Neues%20Rathaus%20Hannover%202013.jpg",
+      "2019%20-%20Schweriner%20Schloss%20-%201.jpg",
+      "Ho%20Chi%20Minh%20City%20Skyline.jpg",
+      "Halle-view%20Zoo.JPG",
+      "Phnom%20Penh%20aerial.jpg",
+      "Aerial%20view%20of%20Magdeburg.jpg",
+      "Reykjav%C3%ADk%205545%20%28cropped%29.JPG",
+      "Theodor-Heuss-Br%C3%BCcke%2C%201902231957%2C%20ako.jpg",
+      "Duisburg%20-%20Schwanentorbr%C3%BCcke%201.jpg",
+      "Innenstadt%20Leipzig%20mit%20Thomaskirche%20von%20Panorama%20Tower%202013.jpg",
+      "Hlavn%C3%A9%20Namestie%20%2835096533142%29.jpg",
+      "Innsbruck%20-%20panoramio%20%2845%29.jpg",
+      "DJI%200137%20Edit%20%2851152843462%29.jpg",
+      "Holstentor%20in%20L%C3%BCbeck%20Frontseite%20-%20Zuschnitt.jpg",
+      "SB-Rathaus.jpg"
+    ]
+  }
+]
